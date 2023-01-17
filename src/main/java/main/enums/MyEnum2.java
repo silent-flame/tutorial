@@ -1,4 +1,4 @@
-package main;
+package main.enums;
 
 public class MyEnum2 {
 
